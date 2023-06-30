@@ -60,6 +60,12 @@ The application allows users to browse and search for Pokemon. The main features
 - Filtering by Ability: Users can select specific abilities to filter the list of - Pokemon and view only those that possess the selected abilities.
 - Pokemon Details: Clicking on a Pokemon card displays detailed information about the selected Pokemon.
 
+## Unit testing
+
+```
+pnpm dev test
+```
+
 ## Why chakra UI?
 
 Chakra UI is a popular UI library for React that provides a set of accessible and customizable components. It was chosen for this project to streamline the development process by providing pre-designed components with built-in accessibility features. Chakra UI also offers easy theming and responsive design capabilities, making it an excellent choice for creating a visually appealing and responsive web application.
